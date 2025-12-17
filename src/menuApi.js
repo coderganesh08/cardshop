@@ -19,7 +19,7 @@ import img_biryani from "./assets/biryani.jpeg";
 import img_palakpaneer from "./assets/palakpaneer.webp";
 const Menu = [
   // 🍳 Breakfast
-  { id: 1, image: img1, name: "Burger", category: "breakfast", price: 39, description: "A delicious breakfast burger with fresh lettuce, tomato, and cheese." },
+  { id: 1, image: img1, name: "Burger", category: "breakfast", price: 39, description: "A delicious best breakfast burger with fresh lettuce, tomato, and cheese." },
   { id: 2, image: sandwich, name: "Sandwich", category: "breakfast", price: 59, description: "Grilled cheese sandwich with butter and herbs." },
   { id: 3, image: img_pancakes, name: "Pancakes", category: "breakfast", price: 79, description: "Fluffy pancakes topped with syrup and butter." },
   { id: 4, image: img_omelette, name: "Omelette", category: "breakfast", price: 49, description: "Cheese omelette with herbs and veggies." },
