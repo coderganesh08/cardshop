@@ -21,7 +21,6 @@ import img_dessert from "./assets/pas1.jpg";
 import img_beverage from "./assets/img2.jpg";
 import img_snack from "./assets/maggie.jpeg";
 import img_dinner from "./assets/img1.jpg";
-import img_placeholder from "./assets/download.jpeg";
 const Menu = [
   // 🍳 Breakfast
   { id: 1, image: img1, name: "Burger", category: "breakfast", price: 39, description: "A delicious best breakfast burger with fresh lettuce, tomato, and cheese." },
