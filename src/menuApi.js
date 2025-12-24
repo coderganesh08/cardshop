@@ -21,6 +21,8 @@ import img_dessert from "./assets/pas1.jpg";
 import img_beverage from "./assets/img2.jpg";
 import img_snack from "./assets/maggie.jpeg";
 import img_dinner from "./assets/img1.jpg";
+import img_daltadka from "./assets/daltadka.jpeg";
+
 const Menu = [
   // 🍳 Breakfast
   { id: 1, image: img1, name: "Burger", category: "breakfast", price: 39, description: "A delicious best breakfast burger with fresh lettuce, tomato, and cheese." },
@@ -46,7 +48,7 @@ const Menu = [
   { id: 17, image: img_pasta, name: "Pasta", category: "dinner", price: 99, description: "Creamy Alfredo pasta with garlic bread." },
   { id: 18, image: img_biryani, name: "Veg Biryani", category: "dinner", price: 149, description: "Aromatic rice with spices, served with raita." },
   { id: 19, image: img_palakpaneer, name: "Palak Paneer", category: "dinner", price: 139, description: "Spinach gravy cooked with cottage cheese." },
- { id: 20, image: img_dinner, name: "Dal Tadka", category: "dinner", price: 109, description: "Yellow dal tempered with ghee, cumin, and garlic." },
+ { id: 20, image: img_daltadka, name: "Dal Tadka", category: "dinner", price: 109, description: "Yellow dal tempered with ghee, cumin, and garlic." },
   { id: 21, image: img_dinner, name: "Butter Roti", category: "dinner", price: 15, description: "Soft wheat roti topped with butter." },
   { id: 22, image: img_dinner, name: "Garlic Naan", category: "dinner", price: 30, description: "Tandoor-baked naan flavored with garlic." },
   { id: 23, image: img_dinner, name: "Paneer Butter Masala", category: "dinner", price: 149, description: "Rich tomato gravy with soft paneer cubes." },
