@@ -49,7 +49,7 @@ const Menu = [
   { id: 18, image: img_biryani, name: "Veg Biryani", category: "dinner", price: 149, description: "Aromatic rice with spices, served with raita." },
   { id: 19, image: img_palakpaneer, name: "Palak Paneer", category: "dinner", price: 139, description: "Spinach gravy cooked with cottage cheese." },
  { id: 20, image: img_daltadka, name: "Dal Tadka", category: "dinner", price: 109, description: "Yellow dal tempered with ghee, cumin, and garlic." },
-  { id: 21, image: img_dinner, name: "Butter Roti", category: "dinner", price: 15, description: "Soft wheat roti topped with butter." },
+  /*{ id: 21, image: img_dinner, name: "Butter Roti", category: "dinner", price: 15, description: "Soft wheat roti topped with butter." },
   { id: 22, image: img_dinner, name: "Garlic Naan", category: "dinner", price: 30, description: "Tandoor-baked naan flavored with garlic." },
   { id: 23, image: img_dinner, name: "Paneer Butter Masala", category: "dinner", price: 149, description: "Rich tomato gravy with soft paneer cubes." },
   { id: 24, image: img_dinner, name: "Chapati & Curry", category: "dinner", price: 79, description: "Whole wheat chapati served with curry." },
@@ -60,7 +60,6 @@ const Menu = [
   { id: 27, image: img_snack, name: "Samosa", category: "snacks", price: 20, description: "Crispy pastry stuffed with spicy potatoes." },
   { id: 28, image: img_snack, name: "Pakoda", category: "snacks", price: 30, description: "Onion fritters deep fried till golden." },
   { id: 29, image: img_snack, name: "Vada Pav", category: "snacks", price: 25, description: "Mumbai’s famous vada pav with chutneys." },
-  { id: 30, image: img_snack, name: "Cutting Chai", category: "snacks", price: 15, description: "Strong Indian tea served in a small glass." },
   { id: 31, image: img_snack, name: "Dhokla", category: "snacks", price: 45, description: "Soft and spongy Gujarati dhokla." },
   { id: 32, image: img_snack, name: "Spring Roll", category: "snacks", price: 65, description: "Crispy rolls filled with veggies." },
 
@@ -85,7 +84,7 @@ const Menu = [
   { id: 48, image: img_dessert, name: "Cheesecake", category: "dessert", price: 120, description: "Creamy cheesecake with berry topping." },
   { id: 49, image: img_dessert, name: "Fruit Custard", category: "dessert", price: 65, description: "Sweet custard with seasonal fruits." },
   { id: 50, image: img_dessert, name: "Waffle", category: "dessert", price: 110, description: "Crispy waffle served with syrup and cream." },
-
+*/
   ];
 
 export default Menu;
